@@ -1,0 +1,42 @@
+export const products = [
+    {
+        name : "nexia",
+        id : 1,
+        text : "naxia2avtomabil",
+        price : 10,
+        count :100,
+        img : './img/nexia.png',
+    },
+    {
+        name : "onix",
+        id : 2,
+        text : "onix2022avtomabil",
+        price : 18,
+        count :50,
+        img : './img/onix.jpg',
+    },
+    {
+        name : "malibu1",
+        id : 3,
+        text : "malibu1avtomobil",
+        price : 15,
+        count :30,
+        img : './img/malibu2013.jpg',
+    },
+    {
+        name : "malibu2",
+        id : 4,
+        text : "malibu2premiuer",
+        price : 50,
+        count :35,
+        img : './img/malibu2.png',
+    },
+    {
+        name : "equinox",
+        id : 5,
+        text : "equinoxavtomobil",
+        price : 45,
+        count :20,
+        img : './img/equinox.png',
+    },
+]
